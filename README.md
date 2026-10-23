@@ -11,8 +11,6 @@ Bem-vindo ao Manual de Hollow Knight, um jogo de ação e aventura desenvolvido 
 * [Introdução](introducao.md)
 * [Personagens](personagens.md)
 * [História](historia.md)
-* [Estratégias e Guia de Progressão](estrategias.md)
-* [Fontes e Referências](fontes.md)
 
 ## Características do Jogo
 
