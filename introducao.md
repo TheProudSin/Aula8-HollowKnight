@@ -1,7 +1,6 @@
 # 1. Introdução ao Jogo
 
-![](Images/intro.jpg)
-
+![](Images/intro.png)
 
 ## O que é Hollow Knight?
 
